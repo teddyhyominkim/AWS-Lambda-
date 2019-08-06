@@ -1,6 +1,15 @@
 
 
-1. Set on AWS 
+1. Set on AWS for Creating Lambda function
+
   - set function name
   - python version
   - 
+
+2. Set on AWS for API gateway
+
+  - Trigger configuration
+  - 
+
+
+3. read from AWS S3 Bucket 
